@@ -1,0 +1,8 @@
+pytest
+click
+pandas
+pygments
+ipython
+bpython
+psutil
+pympler
